@@ -11,10 +11,10 @@ O artigo cita o trabalho em equipe como essencial e cita como os cursos voltados
 `Nesta parte, ideias e conceitos que aparecem no artigo devem ser organizados e descritos com as palavras do leitor, e, idealmente, devem ser indicadas as páginas onde aparecem no texto. Deve-se incluir de 3 a 6  itens. Exemplo:`
 
 
-* _Frequency_ (frequência) é o número de dias em que o voluntário esteve ativo executando tarefas no sistema/projeto (página 54).
-* _Daily productivity_ (produtividade diária) é a quantidade média de tarefas que o voluntário executa por dia em que está ativo (página 54).
-* _Typical session duration_ (duração média da sessão) é a quantidade de tempo seguido que o usuário permanece executando tarefas no projeto/sistema (página 54).
-* _Devoted time_ é o total de tempo que o voluntário permaneceu executando tarefas no sistema contando todas as suas participações, ou seja, somando as horas em todos os dias em que esteve ativo (página 54).
+* _Scrum_ é um modelo usado para desenvolver, fornecer e sustentar produtos em um ambiente complexo, com ênfase inicial no desenvolvimento de software (página 2).
+* _Kanban_ propõe o uso de cartões (post-its) para indicar e acompanhar o andamento da produção dentro da indústria. Trata-se de um sistema visual que busca gerenciar o trabalho conforme ele se move pelo processo (página 2).
+* _Trello_ é um aplicativo de gerenciamento de projeto baseado na web, utilizando o paradigma kanban (página 2).
+* _Slack_  é uma plataforma de comunicação empresarial que oferece muitos recursos no estilo IRC, incluindo salas de chat persistentes organizadas por tópico, grupos privados e mensagens diretas (página 2).
 
 ## 3. Fichamento de Citações 
 
